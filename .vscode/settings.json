@@ -1,0 +1,32 @@
+{
+    "editor.formatOnSave": false, // 每次保存自动格式化
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "editor.codeActionsOnSave": {
+        // 在保存时用eslint规则进行修复
+        // "source.fixAll": true,
+        "source.fixAll.eslint": true
+    },
+
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.options": {
+        //指定vscode的eslint所处理的文件的后缀
+        "extensions": [".js", ".vue", ".ts", ".tsx"],
+        "eslint.autoFixOnSave": true,
+        "eslint.validate": [
+            "javascript",
+            "javascriptreact",
+            {
+                "language": "typescript",
+                "autoFix": true
+            },
+            {
+                "language": "typescriptreact",
+                "autoFix": true
+            }
+        ]
+    },
+    // 统一编辑器换行符为LF
+    "files.eol": "\n"
+}

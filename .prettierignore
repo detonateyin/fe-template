@@ -1,0 +1,12 @@
+**/node_modules/**
+package.json
+
+# docs
+/docs
+# **/*.md
+
+# coverage
+/coverage
+/dist
+
+
