@@ -1,14 +1,9 @@
-/**
- * /*
- *
- * @format
+/*
  * @Author: xiaoming
  * @Date: 2021-05-06 10:37:33
  * @LastEditors: xiaoming
- * @LastEditTime: 2021-05-06 10:58:45
- * @Description: file content
+ * @LastEditTime: 2021-05-07 11:31:41
+ * @Description: commitlint校验规则配置
  */
-
-/** @format */
 
 module.exports = { extends: ['@commitlint/config-conventional'] };

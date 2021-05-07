@@ -1,14 +1,10 @@
-/**
- * /*
- *
- * @format
+/*
  * @Author: xiaoming
  * @Date: 2021-05-06 10:37:33
  * @LastEditors: xiaoming
- * @LastEditTime: 2021-05-06 11:11:09
- * @Description: file content
+ * @LastEditTime: 2021-05-07 11:31:27
+ * @Description: changelog配置文件
  */
-
 module.exports = {
   disableEmoji: false,
   list: ['test', 'feat', 'fix', 'chore', 'docs', 'refactor', 'style', 'ci', 'perf'],

@@ -2,8 +2,8 @@
  * @Author: xiaoming
  * @Date: 2021-05-06 10:37:33
  * @LastEditors: xiaoming
- * @LastEditTime: 2021-05-06 17:10:40
- * @Description: file content
+ * @LastEditTime: 2021-05-07 11:32:30
+ * @Description: prettier配置文件
  */
 /** @format */
 

@@ -1,5 +1,10 @@
-/** @format */
-
+/*
+ * @Author: xiaoming
+ * @Date: 2021-05-06 10:37:33
+ * @LastEditors: xiaoming
+ * @LastEditTime: 2021-05-07 11:32:14
+ * @Description: commit提交信息自定义配置
+ */
 module.exports = {
   types: [
     { type: 'feat', section: '✨ Features | 新功能' },
